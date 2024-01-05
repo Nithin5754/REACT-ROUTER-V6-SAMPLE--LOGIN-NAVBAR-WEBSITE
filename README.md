@@ -1,14 +1,3 @@
-# React Router 6
-
-#### React Course
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Run Complete Project
 
 - index.js
 
@@ -493,5 +482,6 @@ const ProtectedRoute = ({ children, user }) => {
 
 export default ProtectedRoute;
 ```
-#   R E A C T - R O U T E R - V 6 - S A M P L E - - L O G I N - N A V B A R - W E B S I T E  
+#   R E A C T - R O U T E R - V 6 - S A M P L E - - L O G I N - N A V B A R - W E B S I T E 
+ 
  
